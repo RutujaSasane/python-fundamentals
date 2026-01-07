@@ -8,6 +8,13 @@ This repository contains my daily practice of Python fundamentals as part of reb
   - Swap two numbers (with and without temporary variable)
   - Find the length of a string
   - Print numbers using loops
+- Day 2: Conditions, operators, and type conversion
+  - Positive, negative, or zero check
+  - Largest of two numbers
+  - Arithmetic operators
+  - Logical operators
+  - Type conversion
+  - Even numbers using loop
 
 ## Goal
 To build strong Python fundamentals through consistent daily practice and clear understanding of core concepts.
