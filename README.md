@@ -15,6 +15,12 @@ This repository contains my daily practice of Python fundamentals as part of reb
   - Logical operators
   - Type conversion
   - Even numbers using loop
+- Day 3: Control flow using conditionals
+  - Largest of three numbers
+  - Voting eligibility check
+  - Grade classification using if-elif ladder
+  - Nested if (positive number and even/odd check)
+  - Simple calculator using conditionals
 
 ## Goal
 To build strong Python fundamentals through consistent daily practice and clear understanding of core concepts.
