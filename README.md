@@ -21,6 +21,13 @@ This repository contains my daily practice of Python fundamentals as part of reb
   - Grade classification using if-elif ladder
   - Nested if (positive number and even/odd check)
   - Simple calculator using conditionals
+- Day 4: Loops and logic building
+  - Count digits in a number
+  - Reverse a number
+  - Sum of digits
+  - Prime number check
+  - Star pattern printing
+  - Numbers divisible by 3 and 5
 
 ## Goal
 To build strong Python fundamentals through consistent daily practice and clear understanding of core concepts.
