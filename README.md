@@ -28,6 +28,13 @@ This repository contains my daily practice of Python fundamentals as part of reb
   - Prime number check
   - Star pattern printing
   - Numbers divisible by 3 and 5
+- Day 5: Number logic and pattern practice
+  - Palindrome number check
+  - First n prime numbers
+  - Factorial using loops
+  - Reverse star pattern
+  - Count even and odd digits
+  - Logical conditions (divisible by 4 or 6, not both)
 
 ## Goal
 To build strong Python fundamentals through consistent daily practice and clear understanding of core concepts.
