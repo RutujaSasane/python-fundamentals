@@ -35,6 +35,13 @@ This repository contains my daily practice of Python fundamentals as part of reb
   - Reverse star pattern
   - Count even and odd digits
   - Logical conditions (divisible by 4 or 6, not both)
+- Day 6: Strings and logic practice
+  - Count vowels and consonants
+  - Reverse each word in a sentence
+  - Palindrome check (ignore case)
+  - Character frequency using dictionary
+  - Remove duplicate characters
+  - Anagram check
 
 ## Goal
 To build strong Python fundamentals through consistent daily practice and clear understanding of core concepts.
