@@ -42,6 +42,13 @@ This repository contains my daily practice of Python fundamentals as part of reb
   - Character frequency using dictionary
   - Remove duplicate characters
   - Anagram check
+- Day 7: Advanced string practice
+  - Count words in a sentence
+  - Find longest word
+  - String comparison ignoring case and spaces
+  - Replace vowels with *
+  - First non-repeating character
+  - Check if string contains only digits
 
 ## Goal
 To build strong Python fundamentals through consistent daily practice and clear understanding of core concepts.
